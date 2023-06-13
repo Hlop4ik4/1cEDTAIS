@@ -30,6 +30,24 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <attributes uuid="9742ba12-99fb-4212-b126-88eeaa4b3dec">
+    <name>Реквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <attributes uuid="38acc571-a779-4b4d-bd4d-913340f2eadf">
     <name>РеквизитМастера</name>
     <synonym>
