@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0e416e7-374b-4558-aeb5-442b2bf309a7">
+  <producedTypes>
+    <objectType typeId="a08ba329-64d3-44ec-abd1-f4a86416910c" valueTypeId="6e89e78d-9e83-40dd-9e51-2a0d510c4e9e"/>
+    <refType typeId="09793a62-e3ea-427a-8408-f474c7614468" valueTypeId="fa1340d9-4cc4-4a54-a0e7-4baf6d61477b"/>
+    <selectionType typeId="687ae3f8-9229-48b9-85bb-7816934c292f" valueTypeId="92b476a1-d252-4f3b-a42d-d9995f98bfda"/>
+    <listType typeId="61a55449-2d7c-48fd-8ad8-4e508ff2ca31" valueTypeId="b5dc24d3-ef09-45e4-8b46-1228276c4b59"/>
+    <managerType typeId="fee9f88a-743e-4eeb-a953-cca1c9654e42" valueTypeId="f565c42c-838a-4466-94fe-382715bf7736"/>
+  </producedTypes>
+  <name>папвап</name>
+  <synonym>
+    <key>ru</key>
+    <value>Папвап</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.папвап.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.папвап.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
